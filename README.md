@@ -1,8 +1,8 @@
-<h1 align="center">Salutation, c'est Paul</h1>
+<h1 align="center">Salutation</h1>
 
 <p align="center">
   Student in Economics, Finance, Tech & Data @ <strong>École de l'économie de la Sorbonne (Paris 1)</strong><br>
-  Aspiring white collar | Focus on <strong>Commodities & Quantitative Finance but nothing too serious</strong><br>
+  Aspiring white collar but nothing too serious</strong><br>
 </p>
 
 ---
