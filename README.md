@@ -1,7 +1,7 @@
-<h1 align="center">Salutation</h1>
+<h1 align="center">BRUHHHHH</h1>
 
 <p align="center">
-  Student in Economics, Finance, Tech & Data @ <strong>École de l'économie de la Sorbonne (Paris 1)</strong><br>
+  Student in Economics, Finance & Data</strong><br>
   Aspiring white collar but nothing too serious</strong><br>
 </p>
 
