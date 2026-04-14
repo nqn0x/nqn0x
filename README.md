@@ -1,24 +1,26 @@
 <h1 align="center">BRUHHHHH</h1>
 
 <p align="center">
-  Student in Economics, Finance & Data</strong><br>
-  Aspiring white collar but nothing too serious</strong><br>
+  <b>Student in Economics, Finance & Data</b><br>
+  <i>Aspiring white collar but nothing too serious</i>
 </p>
 
 ---
-<p align="center"> <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="600" /> </p> ```
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="600" alt="Banner GIF" />
+</p>
 
 <h2 align="center">About Me — but it's JavaScript</h2>
 
-```js
+```javascript
 const Paul = {
   education: "Sorbonne, M2 in Econ/Finance/Data",
   skills: ["Python", "Nothing else", "Sleeping"],
   darkMode: true,
   speaks: ["French", "English"],
   currentProject: "Escaping Unemployment",
-}
+};
 ```
 
 </p>
