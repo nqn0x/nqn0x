@@ -37,13 +37,6 @@ const Paul = {
   <img src="https://github-readme-stats.vercel.app/api?username=PaulNguyen&show_icons=true&theme=tokyonight&hide=prs" />
 </p>
 
-<h2 align="center">GitHub Streak Stats</h2>
-
-<p align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PaulNguyen&theme=tokyonight" />
-</p>
-
 <h2 align="center">GitHub Top Languages</h2>
 
 <p align="center">
