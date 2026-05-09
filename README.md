@@ -51,25 +51,6 @@ const Paul = {
 };
 ```
 
-<br>
-
-<h2 align="center">Laboratory Equipment</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,js,html,css,git,github,vscode" alt="Tech stack" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Econometrics-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Market%20Chaos-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deadline%20Survival-0D1117?style=for-the-badge" />
-
 </div>
 
 <br>
@@ -225,9 +206,3 @@ const Paul = {
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2c5364,50:090979,100:020024&section=footer" alt="Footer" />
-
-</div>
